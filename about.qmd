@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+For help with this course, please reach out to the professor or the TA through Canvas
 
 ```{r}
 1 + 1
