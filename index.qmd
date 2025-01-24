@@ -1,11 +1,9 @@
 ---
-title: "course_website"
+title: "Plants, Earth and Climate"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to our course webpage! we will be using this website throughout the course, and all materials will be made available through Canvas following each lecture.
 
 ```{r}
-1 + 1
+
 ```
