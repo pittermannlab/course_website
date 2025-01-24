@@ -1,0 +1,301 @@
+---
+title: "PEC: Lecture 1"
+author: "Jarmila Pittermann"
+format: 
+  revealjs:
+    scroll-view: true
+    slide-tone: false
+    chalkboard: true
+    slide-number: true
+aspectratio: 149
+---
+
+## **Welcome to Plants, Earth and Climate** {background-video="cottonwood_movie.mov" background-video-loop="true" background-video-muted="true" background-opacity="0.3"}
+
+ 
+
+**Instructor: Jarmila Pittermann**
+
+-   PhD University of Utah (Ecophysiology of Conifers)
+-   MSc University of Toronto, Canada (C4 Photosynthesis)
+-   BA&Sc McMaster University, Canada
+
+## **Welcome to Plants, Earth and Climate** {background-video="cottonwood_movie.mov" background-video-loop="true" background-video-muted="true" background-opacity="0.3"}
+
+ 
+
+**Teaching Assistant: Hugh Leonard**
+
+-   Doctoral Candidate (Ecophysiology of post-fire mixed evergreen communities)
+-   BSc UCSC (Transfer from West Valley College)
+
+ 
+
+[Pittermann Lab Website](https://sites.google.com/ucsc.edu/pittermann-lab-ucsc/home)
+
+## Plants are important
+
+-   Plants are the foundation of life and human existence
+
+-   We depend on them for survival, in otherwise lifeless space
+
+-   We ourselves are shaped by milions of years of interactions with plants
+
+## Plants are important
+
+-   Plants are a source of energy: humanity is dependent on photosynthesis
+
+-   Plants have no voice of their own; we take them for granted
+
+-   Modern life has obscured the direct connection to plants
+
+## Plants are the furniture backdrop of most people's lives {text-align="center"}
+
+![](garden_cottage.png){fig-align="center"}
+
+## Goals of Plants, Earth, & Climate {.scrollable}
+
+### Understand:
+
+-   how biotic and abiotic factors shape the Earth's biosphere
+-   essential plant physiology
+-   the basics of biogeochemical cycles
+-   the basics of abiotic climate regulation
+-   how elevated CO~2~, warmer temperatures, and drought challenge plants
+-   the response of ecosystems and agriculture to human-caused climate forcing
+-   plants in the deep past
+-   limits to adaptation
+-   innovations in plant breeding
+
+# Course Structure {style="text-align: center;"}
+
+![](canada_canopy.mov){width="650" height="475"}
+
+**Part I** Plant metabolism in the context of core climate and biogeochemical processes
+
+# Course Structure {style="text-align: center;"}
+
+![](lycophyte_swamp.png){width="550" height="400"}
+
+\*Part II\*\* Plants, earth, and climate from a deep time perspective
+
+# Course Structure {style="text-align: center;"}
+
+![](alaska_farming.png){width="650" height="475"}
+
+**Part III** The future of plants, earth, and climate
+
+## Complex system {style="text-align: center"}
+
+![](EpicEarth-Globespin-tilt-23.4.gif){width="700" height="700" fig-align="center"}
+
+# The administrative stuff {style="text-align: center"}
+
+## All course content on [Canvas](https://canvas.ucsc.edu/)
+
+## Course evaluation details on [syllabus](https://canvas.ucsc.edu/)
+
+## About your assignments
+
+## How I want you to think:
+
+-   Example: What is the impact of elevated temperatures on trees?
+
+## The use of generative AI
+
+::: columns
+::: {.column width="60%"}
+-   I cannot and will not police you
+-   AI will cheat you in the long run
+-   You must be able to express yourself clearly on tests
+:::
+
+::: {.column width="40%"}
+![](duh.png){width="275" height="350"}
+:::
+:::
+
+## Come to lectures and sections
+
+-   Best and most direct way to learn
+-   Hundreds of dollars per lecture
+-   Lecture material will be posted prior to lecture
+
+## Great questions to ask
+
+-   What does that mean?
+-   What is the connection between X and Y?
+-   Can you explain?
+-   Please repeat.
+-   What if...? Do you know...? Could it be that...?
+
+## Let's get started! {style="text-align: center"}
+
+::: {video}
+{{< video https://youtu.be/VLljUxf7fHk width="750" height="500" >}}
+
+Consider the current context per the *European Space Agency*
+:::
+
+# Lecture 1: Plants, diversity, vegetation distribution across the globe
+
+# WHAT IS A PLANT? {.scrollable}
+
+<!-- from How plants work -->
+
+-   Plants are multicellular photosynthetic organisms that have adapted to life on land.
+-   They use energy from the sun to turn carbon dioxide into sugars: autotrophs
+-   Some plants have adapted to an aquatic lifestyle.
+-   Some of the most important autotrophs are not plants at all but algae!
+
+# Plant Structure
+
+::: columns
+::: {.column width="40%"}
+![Sunflower in Colorado prairie](sunflower.png){width="250" height="475"}
+:::
+
+::: {.column width="60%"}
+![Oak tree in Santa Cruz](wilder_oak.png){width="600" height="475"}
+:::
+:::
+
+## Core plant tissues and their function
+
+![plant anatomy](plant_anatomy.png){height="500" width="250"}
+
+## Essential plant metabolism: Water transport
+
+::: columns
+::: {.column width="60%"}
+Key points
+:::
+
+::: {.column width="40%"}
+![](plant_water_transport.png){height="500" width="400"}
+:::
+:::
+
+## Essential plant metabolism: Photosynthesis
+
+![](photosynthesis.png){height="600" width="1200" fig-align="center"}
+
+# Plant diversity over time.
+
+![land plant phylogeny](phylogeny.png){height="800" width="700" fig-align="center"}
+
+# Bryophytes
+
+-   earliest-derived
+-   spore-dispersing
+-   liverworts
+-   hornworts
+-   mosses
+
+![](conocephallum_liverwort.png){.absolute top="50" right="50" height="400" width="500"}
+
+# Fern allies
+
+-   vascular tissue
+-   simple leaves
+-   spores
+-   lycopods
+-   horsetails
+-   whisk ferns
+-   Carboniferous
+
+![](lycopodium_clavatum.png){.absolute top="50" right="50" height="400" width="500"}
+
+# Ferns
+
+-   vascular tissue
+-   true leaves
+-   spores
+-   extremely diverse
+-   Carboniferous coal swamps
+
+![](frond.png){.absolute top="50" right="50" height="600" width="500"}
+
+# Gymnosperms
+
+-   seed producing
+-   gingko
+-   cycads
+-   gnetophytes
+-   conifers
+-   Mesozoic
+
+![](gymnospermae.jpg){.absolute top="150" right="0" height="400" width="500"}
+
+# Angiosperms
+
+-   flowering seed plants
+-   extremely diverse
+-   complex reproduction
+    -   pollinators
+    -   seed dispersers
+
+![](angiosperm_phylogeny.jpg){.absolute top="50" right="0" height="650" width="500"}
+
+# 
+
+![](time_CO2_phylogeny_jp.png) Geological Time Scale from [Geological Society of America](https://www.geosociety.org/GSA/GSA/timescale/home.aspx)
+
+## How did plants evolve? {.smaller}
+
+## Evolutionary adaptations to life on land
+
+# Reproductive innovations were critical
+
+-   no water required for reproduction: pollination evolved!
+-   seeds are desiccation-tolerant
+
+# Global vegetation biomes {background-video="cottonwood_movie.mov" background-video-loop="true" background-video-muted="true" background-opacity="0.3"}
+
+Decent online sources:
+
+[Wikipedia/biome](https://en.wikipedia.org/wiki/Biome)
+
+[Global Forest Watch interactive maps](https://www.globalforestwatch.org)
+
+## Summary of Lecture 1 {.scrollable}
+
+What is a Plant?
+
+```         
+- Multicellular photosynthetic organisms adapted to land
+- They use sunlight to turn CO₂ into sugars (autotrophs)
+- Adapted to a wide range of habitat
+```
+
+Plant Anatomy & Physiology
+
+```         
+- Core tissues facilitate structure, water transport and photosynthesis.
+- Photosynthesis and water transport are intertwined.
+```
+
+Plant Diversity and Evolution
+
+```         
+- Bryophytes: Earliest spore-dispersing plants (liverworts, hornworts, mosses).
+- Fern Allies: Vascular plants with simple leaves (lycopods, horsetails, whisk ferns).
+- Ferns: Diverse vascular plants with true leaves, prominent in Carboniferous swamps.
+- Gymnosperms: Seed-producing plants (gingko, cycads, conifers) from the Mesozoic era.
+- Angiosperms: Flowering plants with complex reproduction involving pollinators and seed dispersers.
+```
+
+Evolutionary Innovations
+
+```         
+- Adaptations to land life: vascular tissue, true leaves, seeds.
+- Reproductive advancements: pollinators, seed dispersers 
+```
+
+## Suggested study questions
+
+-   How do plants transport water?
+-   How does photosynthesis work?
+-   What are some innovations of plant life on land?
+-   What governs vegetation distribution around the globe?
+-   What are Holdridge life zones, and how are they defined?
